@@ -37,4 +37,4 @@ Mi experiencia se centra en la construcción de sistemas robustos, escalables y 
 
 ---
 
-[**🔗 Mi LinkedIn**](link-a-tu-perfil) | [**📬 Contacto: josefinaoller19@gmail.com**](mailto:josefinaoller19@gmail.com)
+[**🔗 Mi LinkedIn**](https://www.linkedin.com/in/josefinaoller/) | [**📬 Contacto: josefinaoller19@gmail.com**](mailto:josefinaoller19@gmail.com)
