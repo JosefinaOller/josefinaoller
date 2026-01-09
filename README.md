@@ -56,6 +56,23 @@ Mi experiencia se centra en la construcción de sistemas robustos, escalables y 
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Scrum](https://img.shields.io/badge/Scrum-0056D2?style=for-the-badge&logo=scrum&logoColor=white)
 
+## 🚀 Proyectos Destacados
+
+### 📚 [Sistema Distribuido de Biblioteca Digital](https://github.com/JosefinaOller/biblioteca-distribuida-java)
+**Stack:** Java 17, Spring Boot, Spring Cloud (Eureka, API Gateway), PostgreSQL.
+* Arquitectura de microservicios escalable con comunicación asincrónica y balanceo de carga.
+* Implementación de persistencia aislada y Gateway centralizado.
+
+### 🗳️ [API Gestión de Votaciones](https://github.com/JosefinaOller/api-gestion-votos)
+**Stack:** Java, Spring Data JPA, JUnit 5, Mockito, SonarLint.
+* Foco en **Calidad de Código** y Cobertura de Tests Unitarios.
+* Análisis estático de código para asegurar Clean Code y principios SOLID.
+
+### 🏥 [Sistema de Gestión de Turnos Médicos](https://github.com/JosefinaOller/gestion-turnos)
+**Stack:** Java, Spring Boot, JPA, H2 Database.
+* Implementación sólida de API RESTful siguiendo el patrón MVC.
+* Gestión completa de entidades (CRUD) y validación de reglas de negocio.
+
 ## 💡 Sobre Mí y Colaboración
 
 * **Experiencia práctica:** Participación en el análisis, diseño e implementación de proyectos internos B2E.
